@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!--Menu Options-->
+    <string name="option_txt_1">Christmas</string>
+    <string name="option_txt_2">Happy New Year</string>
+    <string name="option_txt_3">Makar Sakranti</string>
+    <string name="option_txt_4">Vasant Panchami</string>
+    <string name="option_txt_5">26 Republic Day</string>
+    <string name="option_txt_6">Movie</string>
+    <string name="option_txt_7">Holika</string>
+    <string name="option_txt_8">Holi</string>
+    <string name="option_txt_9">Maha Shivaratri</string>
+    <string name="txt_option_10">Bhojpuri Movie</string>
+
+
+    <string name="txt_close_app">Do you want to close app !!</string>
+    <string name="txt_yes">yes</string>
+    <string name="txt_No">No</string>
+    <string name="enter_name">Enter name...</string>
+
+
+</resources>
